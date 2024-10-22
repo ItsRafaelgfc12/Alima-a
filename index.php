@@ -28,4 +28,15 @@ $lb->start();
 // Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
 // Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
 // Core::$debug_sql = true;
+// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;
+// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;// si quieres que se muestre las consultas SQL debes decomentar la siguiente linea
+// Core::$debug_sql = true;
+
 ?>
